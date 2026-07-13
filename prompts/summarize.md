@@ -1,8 +1,13 @@
 # Summarize Prompt
 
-## Version 1
+## Version 2
 
-Summarize the following text into a short paragraph while keeping the main ideas.
+Summarize the following text into **5 bullet points**.
+
+Requirements:
+- Keep only the main ideas.
+- Use simple language.
+- Do not add new information.
 
 **Text:**
 ```
