@@ -1,13 +1,15 @@
 # Revise Prompt
 
-## Version 1
+## Version 2
 
-Revise the following text to improve grammar, spelling, and clarity.
+Revise the following text to improve grammar, spelling, clarity, and professionalism.
 
 Requirements:
 - Keep the original meaning.
 - Correct grammar and spelling.
-- Make the writing easier to read.
+- Improve sentence flow.
+- Use a professional tone.
+- Explain the major changes after the revised version.
 
 **Text:**
 ```
