@@ -12,6 +12,7 @@ Write a clear, polite, and professional email based on the user's request.
 - Do not invent names, dates, or facts.
 - If important information is missing, ask for it instead of guessing.
 - Avoid using overly technical language unless the user requests it.
+- Make the subject line specific to the user's request.
 
 ## Output Format
 Subject:
