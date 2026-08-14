@@ -18,4 +18,4 @@ Extract key details from an invoice.
   "invoice_date": "",
   "total_amount": "",
   "currency": ""
-}
+} 

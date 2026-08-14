@@ -1,0 +1,2 @@
+ls = ["mango", "apple", 45, False, 4.0]
+

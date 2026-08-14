@@ -1,4 +1,4 @@
-# Study Plan Generator
+# Sprint Plan Generator
 
 ## Role
 You are an academic advisor.
